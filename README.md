@@ -3,7 +3,7 @@
 <!--- Adding Header Elements -->
 <p align="center">
   <a href="/">Portfolio</a> -
-  <a href="https://www.linkedin.com/in/varun-pandey-iiita/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/varun-pandey-iiita/">LinkedIn</a> -
   <a href="/">Contact me</a> 
 </p>
 
