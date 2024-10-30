@@ -31,16 +31,8 @@ Operating Systems: <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=W
 </details> 
 
 ## Certification Badges 🪶
-<div style='display:flex; flex-direction:column; align-items:center; gap:20px;' align='center'>
-  <div>
-    <h3>Hacktoberfest 2024 Participant</h3>
-    <a href="https://hacktoberfest.com/">
-      <img src="https://assets.holopin.io/hf2024levels/level0-sloth-hello-0-0-0-0.webp" alt="Hacktoberfest 2024" width="300">
-    </a>
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/Hacktoberfest-2024-blueviolet?style=flat-square" alt="Hacktoberfest Badge">
-  </div>
-</div>
+
+[![An image of @dyfintie's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dyfintie)](https://holopin.io/@dyfintie)
+
 <!--- Footer End -->
 <!--- Body End -->
